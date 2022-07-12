@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/анастасия-герасимова-888bb41b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/анастасия-герасимова-888bb41b6" height="30" width="40" /></a>
+<a href="https://t.me/Belo4kaS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/Belo4kaS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
