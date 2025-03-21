@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Anastasiia</h1>
-<h3 align="center">An IOS-developer from Moscow</h3>
+<h3 align="center">A student from Moscow</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stulolka" alt="stulolka" /></a> </p>
 
+- 📱 I worked as an iOS developer for almost three years
 
-- 📚 I’m currently learning **Python**, I want to study Machine Learning
+- 📚 I’m currently studying Machine Learning
 
 - 🤪 Fun fact **I love dark humor**
 
